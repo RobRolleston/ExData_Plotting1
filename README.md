@@ -1,3 +1,7 @@
+# Exploratory Data Analysis
+Course Project 1 for Coursera: Exploratory Data Analysis (2015-May)
+Rob Rolleston
+
 ## Introduction
 
 This assignment uses data from
